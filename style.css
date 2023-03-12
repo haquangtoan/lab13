@@ -1,15 +1,27 @@
-.bg-img1{
-    background-color: #000;
-    background-size: cover;
-    background-image:url("aa.jpg")
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url("aa.jpg");
+  width: 100%;
+  height: 580px;
+  object-fit: none;
+  object-position: top;
 }
-.bg-img2{
-    background-color: #000;
-    background-size: cover;
-    background-image: url(download.jfif);
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url("bb.jpg");
+  width: 100%;
+  height: 580px;
+  object-fit: none;
+  object-position: top;
 }
-.bg-img3{
-    background-color: #000;
-    background-size: cover;
-    background-image: url(download\ \(2\).jfif);
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url("cc.jpg");
+  width: 100%;
+  height: 580px;
+  object-fit: none;
+  object-position: top;
 }
